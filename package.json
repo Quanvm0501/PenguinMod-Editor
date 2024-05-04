@@ -1,0 +1,16 @@
+{
+  "name": "vast-pocket-tap-w83jw",
+  "productName": "vast-pocket-tap-w83jw",
+  "description": "My Electron application description",
+  "keywords": [],
+  "main": "./main.js",
+  "version": "1.0.0",
+  "author": "Bilybo",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "electron": "30.0.2"
+  }
+}
